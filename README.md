@@ -1,3 +1,20 @@
+# Asynchronous FIFO with Gray Code Synchronization
+
+## 📌 Overview
+This project implements an **Asynchronous FIFO** in Verilog using **Gray code conversion** to safely synchronize read and write pointers across two different clock domains.
+
+The design includes:
+- **Binary ↔ Gray code converters**
+- **Multi-bit Synchronizers**
+- **Pointer synchronization across clock domains**
+- **FIFO memory array with full/empty detection**
+
+---
+
+## 📂 Modules Description
+
+### 1. `Binary_To_Gray`
+Converts a binary number to its Gray code equivalent:
 
 ### 2. `Gray_To_Binary`
 Converts Gray code back to binary by XOR-ing prefix bits.
