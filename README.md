@@ -66,7 +66,13 @@ Implements:
 - Simple and modular design (easy to integrate into larger SoC).
 
 ---
-
+## 🖥️ Simulation & Results
+Below are some snippets from simulation and implementation:  
+![Waveform](https://github.com/Khaled15102002/FIFO/blob/main/Waveform.png)  
+![RTL](https://github.com/Khaled15102002/FIFO/blob/main/RTL_Vivado.png)  
+![Compile](https://github.com/Khaled15102002/FIFO/blob/main/Compile.png)  
+![Questa_lint](https://github.com/Khaled15102002/FIFO/blob/main/Questa_lint.png) 
+![Questa_cdc](https://github.com/Khaled15102002/FIFO/blob/main/Questa_cdc.png)   
 
 
 
