@@ -69,5 +69,4 @@ Implements:
 
 
 
-// Read at clk_b domain
-ren_b = 1;
+
